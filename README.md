@@ -1,1 +1,0 @@
-# inflearn-supabase-delete-user
